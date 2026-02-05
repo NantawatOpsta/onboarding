@@ -2,6 +2,11 @@
 
 Docker เป็นแพลตฟอร์มที่ช่วยให้คุณสามารถสร้าง ส่ง และรันแอปพลิเคชันในคอนเทนเนอร์ได้อย่างง่ายดาย คอนเทนเนอร์เป็นสภาพแวดล้อมที่แยกจากกัน ซึ่งช่วยให้แอปพลิเคชันทำงานได้อย่างสม่ำเสมอในทุกสภาพแวดล้อม
 
+## ติดตั้ง Docker
+
+- [Docker Installation Guide](https://docs.docker.com/engine/install/ubuntu/)
+- [Docker Post Install Guide](https://docs.docker.com/engine/install/linux-postinstall/)
+
 ## ข้อมูลพื้นฐาน
 
 ศึกษาการใช้งาน Docker เบื้องต้นได้จากลิงก์ต่อไปนี้:
